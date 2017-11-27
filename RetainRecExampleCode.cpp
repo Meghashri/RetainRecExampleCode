@@ -239,7 +239,6 @@ int main()
     
     try
     {
-        // Parent object cannot be assigned to child pointer
         int div = 0;
         int result = 17/div;
         if (div == 0)
